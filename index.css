@@ -3,6 +3,73 @@
      width:100%;
      margin:0px;
      position:absolute;
-     background-color: white;
+     background-color: #DDDDDD;;
+     overflow-y: hidden;
      font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;
  }
+
+ .float-right {
+	float: right;
+}
+
+.float-left {
+	float: left;
+}
+
+.header {
+    padding-top: 15px;
+    color: #606060;
+}
+.header a {
+    text-decoration: none;
+}
+
+.header a:hover {
+    border-bottom: 2px #BBBBBB solid;
+}
+
+.header a:visited {
+    color: #727272;
+}
+
+.header-left {
+    margin-left: 20px;
+}
+
+.header-right {
+    margin-right: 20px;
+}
+
+.content {
+    width: 100%;
+    padding-top: 50px;
+}
+
+
+.content-left {
+    height: 100%;
+    padding-top: 50px;
+    width: 50%;
+    float: left;
+    position: relative;
+}
+
+.content-right {
+    height: 100%;
+    padding-top: 50px;
+    width: 50%;
+    float: right;
+    position: relative;
+}
+.image {
+    width: 50%;
+    float: none;
+    position: relative;
+}
+
+.image img {
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    border-radius: 10px;
+}
