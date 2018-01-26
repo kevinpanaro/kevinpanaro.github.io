@@ -1,0 +1,142 @@
+{
+  "locations": [
+    {
+      "update_time": "1/23/2018",
+      "beers": [
+        {
+          "HopHands": {
+            "notes": "Notes of tangelo, kiwi, dank, pine sap, nectarine, honeysuckle, and grapefruit.",
+            "description": "Our American Pale Ale. 5.5% Brewed with oats. Hopped intensely with Simcoe, Centennial, and Amarillo. Hazy, juicy, and imminently crushable. Our precious Pale Ale."
+          }
+        },
+        {
+          "SaisonHands": {
+            "notes": "Notes of lemon zest, pear, barnyard, hay, guava, juicy fruit, and earth",
+            "description": "Our Four-Grain Saison. 4.8% Batch #15. Brewed with rye, oats and wheat. Hopped with Cascade. Fermented in our large French oak foudres. Traditional, complex, and zippy."
+          }
+        },
+        {
+          "High Road": {
+            "notes": "Notes of dignified tropical musk, citrus pith, drippy guava, and crushed fir needles",
+            "description": "Righteous Double IPA 8.0% NO IDEA IS ORIGINAL. Brewed with malted spelt and a touch of caramel malt. LIFE IS A MIRROR OF CONFUSION. Hopped in the kettle with Citra and Simcoe. NEGATIVITY IS A PRISON. Dry hopped aggressively with Simcoe, Mosaic, and Centennial.  TAKE THE HIGH ROAD."
+          }
+        },
+        {
+          "Nothing": {
+            "notes": "Notes of bakers chocolate, pumpernickel toast, mild peat, and burnt sugar.",
+            "description": "Black Beer 4.3% Brewed to be our simple, everyday dark beer. Constructed from a base of British Maris Otter malt, as well as a selection of very dark malts.  Hopped gently with Chinook.  Austere, but inviting."
+          }
+        },
+        {
+          "Wish Fulfillment": {
+            "notes": "Notes of intense ripe peach, green pepper, fresh grass, apricot, and mango jam.",
+            "description": "Galaxy IPA. 6.0% Brewed with spelt. Hopped intensely and singularly with Galaxy. =)"
+          }
+        },
+        {
+          "Trendler Pilsner": {
+            "notes": "Notes of white grape, clover honey, green pepper, and crisp wheat.",
+            "description": "Keller Pilsner. 5.6% Our Old World meets New World Pilsner. Brewed with wheat and pilsner malt. Well hopped with German and domestic hops. We brew this beer for Jeans grandfather, Joseph Trendler, but make enough of it to share with everyone! Crisp with a nice mineral finish."
+          }
+        },
+        {
+          "Alien Church": {
+            "notes": "Notes of lychee, papaya, pink grapefruit, champagne mango, and coconut.",
+            "description": "Oat IPA 7.0% Brewed with oats. Hopped with a blend of our most favorite citrusy/drippy/pungent American hop varietals. Our most otherworldly IPA... Bow down before the ALien Church!"
+          }
+        },
+        {
+          "Prayer Group": {
+            "notes": "Notes of herbal meyer lemon, fresh cut grass, crisp grain, mineral water, and white grape.",
+            "description": "Oak Fermented Wheat Lager 4.3% Brewed with German Pilsner malt and a blend of raw & malted wheat.  Fermented cool with our house lager yeast in one of our large oak foudres at the Dispensary, then cold conditioned in oak on just a touch of lemon juice for many moons."
+          }
+        },
+        {
+          "Intermittent Arrangement": {
+            "notes": "Notes of brisk white grape, lemon zest, plum skin, honeycrisp apple, and flinty minerality.",
+            "description": "Riesling Saison 8.6% Brewed to a four grain base similar to our SaisonHands, primary fermented with our Magickal Saison yeast. Blended and secondary fermented to complete dryness with domestic Riesling juice."
+          }
+        },
+        {
+          "Agiable": {
+            "notes": "Notes of brisk Riesling, hay, cut flowers, crisp mineral water, and drippy citrus",
+            "description": "Grisette 4.7% Brewed with a base of Pilsner malt, raw white wheat and malted oats.  Hopped assertively with the classics: Cascade & Crystal.  Fermented with our Magickal Saison yeast in one of our brand new French oak foudres at our Dispensary."
+          }
+        },
+        {
+          "We Are All Infinite Energy Vibrating at the Same Frequency": {
+            "notes": "Notes of mango jam, spruce tips, ruby red grapefruit, bubblegum, and candied pineapple.",
+            "description": "Wheat IPA. 6.5% An original BrewCafe classic returns! Brewed with malted wheat and hopped intensely with Centennial and Simcoe. Vibrant and drippy juicy!"
+          }
+        },
+        {
+          "Mannequin Throne": {
+            "notes": "Notes of fuzzy apricot, crisp minerality, austere tartness, and juicy cherry.",
+            "description": "Apricot & Cherry Saison 7.5% Brewed in June of 2017 with our gentle friends Tim and Jon from Sante Adairius. Constructed from a base of spelt & oat malt, hopped lightly with Callista, and primary fermented with our Magickal Saison yeast. Conditioned atop a literal ton of Lancaster County Montmorency cherries from our friend Ben Wenk and heaps of apricot puree, and inoculated with Sante Adairius' house mixed culture. Lightly tart, pungent with ripe fruit complexity, and just pretty darn pretty."
+          }
+        }
+      ],
+      "location": "fermentaria"
+    },
+    {
+      "update_time": "1/23/18",
+      "beers": [
+        {
+          "Cask - Unlook Back": {
+            "notes": "",
+            "description": "Blackcurrant Mild 3.0% Inspired by British dark mild. Brewed with British malted barley and oats, and a plethora of specialty malts. Hopped lightly with German Callista, and boiled and conditioned with blackcurrants."
+          }
+        },
+        {
+          "SaisonHands": {
+            "notes": "Notes of lemon zest, pear, barnyard, hay, guava, juicy fruit, and earth.",
+            "description": "Our Four-Grain Saison. 4.8% Batch #16. Brewed with rye, oats, wheat and Cascade hops. This is our most accurate interpretation of traditional Saison."
+          }
+        },
+        {
+          "HopHands": {
+            "notes": "Notes of tangelo, kiwi, dank, nectarine, honeysuckle, and grapefruit.",
+            "description": "Our American Pale Ale. 5.5% Brewed with oats. Hopped intensely with Simcoe, Centennial, and Amarillo. Hazy, juicy, and imminently crushable."
+          }
+        },
+        {
+          "Waka Waka": {
+            "notes": "Notes of fresh mango, drippy rainbows, papaya, and citron zest.",
+            "description": "Passion Fruit Double IPA. 8.2% Brewed with red wheat. Hopped in the kettle with Mosaic and Amarillo. Conditioned on a ridiculous amount of vibrant passion fruit puree. Then assertively dry hopped with heaps of Wakatu and a touch of Citra."
+          }
+        },
+        {
+          "Familiar Stranger": {
+            "notes": "Notes of grapefruit pith,honeydew melon, moist garden soil, and dandelion greens.",
+            "description": "Farmhouse IPA. 6.0% Brewed with our dear friend Ilya. It was brewed entirely with French pilsner malt. Solely and thoughtfully hopped in the kettle with Brewers Gold. Fermented with a new magikal mixed culture in stainless. Then gently dry hopped with Brewers Gold, Lemondrop and French Strisselspalt."
+          }
+        },
+        {
+          "A Long Silence": {
+            "notes": "Notes of dark chocolate, cinnabons, sweet biscuits, and cozy log cabin breakfasts.",
+            "description": "French Toast Dark Mild. 4.3% Brewed with a plethora of specialty malts. Hopped with a dash of Loral in the kettle along with a healthy dash of cinnamon. Then Conditioned in stainless on Madagascar Vanilla Beans and PA Maple Syrup."
+          }
+        },
+        {
+          "Wayward Canoe": {
+            "notes": "Notes of molasses, biscuits, bakers chocolate, dried figs and campfire.",
+            "description": "English Mild. 4.2% Brewed with a plethora of specialty malts. Gently hopped in the kettle with Loral Lupulin Powder. Classic and life affirming."
+          }
+        },
+        {
+          "Texture of Life": {
+            "notes": "Notes of dark wild berries, barnyard must, rose, and chalky bones.",
+            "description": "Pinot Noir Saison. 6.5% Brewed with Pilsner malt and spelt. Gently hopped in the kettle with Saaz. Fermented in stainless on freshly pressed Pinot Noir juice and strawberry puree. Conditioned for many moons in stainless."
+          }
+        },
+        {
+          "Untimely Overdue": {
+            "notes": "Notes of black tea, lemon zest, tobacco leaf, and savory biscuits.",
+            "description": "Biere de Mars. 5.2% Brewed with Chateau Monastique and Pilsner malt. Hopped aggressively with French Strisselspalt. Fermented with our favorite lager yeast and our magickal saison yeast, then conditioned on smoked paprika."
+          }
+        }
+      ],
+      "location": "cafe"
+    }
+  ]
+}
